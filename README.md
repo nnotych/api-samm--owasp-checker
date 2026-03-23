@@ -1,4 +1,5 @@
 # api-samm--owasp-checker
+![API SAMM OWASP Checker](images/banner-clean.png)
 
 
 **demochecker** is a learning tool for automated REST API verification.  
